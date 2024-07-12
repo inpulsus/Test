@@ -1,1 +1,1 @@
-"# Test" 
+Test je preprosto orodje napisano v Pythonu, ki pomaga pri preglednem ocenjevanju znanja. V test zgolj vneseš število nalog pri ocenjevanju ter imena učencev ter dosežene točke, test pa naredi analizo in izdela pregledno excel tabelo.
